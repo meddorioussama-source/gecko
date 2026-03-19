@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0122e4d8-b1d3-414e-9649-4a474e9bcfbe
+  title: library
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/meddorioussama-source
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
